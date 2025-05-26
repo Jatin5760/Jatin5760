@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
 <h1 align="center">Hi 👋, I'm Jatin Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Full Stack Developer | React Native Enthusiast | MERN Stack | DevOps Explorer</h3>
 <img align="right" alt="Coding" width="400" src="https://static.vecteezy.com/system/resources/previews/026/428/275/non_2x/3d-programmer-engineer-illustration-concept-of-script-coding-and-programming-web-site-professional-programmer-writing-code-for-testing-computer-software-3d-illustration-png.png" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin5760&label=Profile%20views&color=0e75b6&style=flat" alt="jatin5760" /> </p>
