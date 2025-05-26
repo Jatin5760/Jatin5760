@@ -30,6 +30,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jatin5760&" alt="jatin5760" /></p>
 
-### 📈 Contribution Graph:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=jatin5760&bg_color=0d1117&color=ffffff&line=00bfff&point=ffffff&area=true&hide_border=true)
