@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin5760&label=Profile%20views&color=0e75b6&style=flat" alt="jatin5760" /> </p>
 
-- 🔭 I’m currently working on **FlavorlyIndia**
+- 🔭 I’m currently working on **FlavorlyIndia** which is a food delivery app (MERN stack)
 
 - 🌱 I’m currently learning **NextJs**
 
