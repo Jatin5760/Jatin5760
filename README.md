@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://instagram.com/jatinsharma14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsharma14_" height="30" width="40" /></a>
   <a href="https://www.linkedin.com/in/jatin-sharma14/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="your_linkedin_username" height="30" width="40" />
+    <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="your_linkedin_username" height="30" width="40" />
   </a>
 </p>
 
