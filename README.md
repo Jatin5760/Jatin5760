@@ -79,7 +79,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://streak-stats.demolab.com?user=Jatin5760&background=0f0f0f&fire=00cc00&ring=ff6200&sideNums=00ff00&sideLabels=00ff00&dates=99ff99&currStreakNum=ff6200" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Jatin5760&background=0f0f0f&fire=ff9200&ring=ff9200&sideNums=00ff00&sideLabels=00ff00&dates=99ff99&currStreakNum=ff6200" alt="Streak Stats" />
         </a>
       </p>
     </td>
