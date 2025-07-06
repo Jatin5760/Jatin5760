@@ -113,4 +113,5 @@
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin5760&bg_color=0f0f0f&color=00ff00&line=00cc00&point=99ff99&area=false&hide_border=false" style="border-radius: 15px;">
 </div>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+
