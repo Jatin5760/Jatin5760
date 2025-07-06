@@ -59,45 +59,54 @@
 
 
 
-<picture style="display: inline-block; margin-right: 40px;">
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin5760&layout=compact&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin5760&layout=compact&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatin5760&layout=compact" />
-</picture>
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
-<picture style="display: inline-block;">
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=jatin5760&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=jatin5760&show_icons=true&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=jatin5760&show_icons=true" />
-</picture>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Jatin5760">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jatin5760&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=00ff00&text_color=00ff00&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Jatin5760">
+          <img align="center" src="https://streak-stats.demolab.com?user=Jatin5760&background=0f0f0f&fire=00cc00&ring=00cc00&sideNums=00ff00&sideLabels=00ff00&dates=99ff99&currStreakNum=00ff00" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Jatin5760/Awesome-Dev-Portfolios">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Jatin5760&repo=Awesome-Dev-Portfolios&bg_color=0f0f0f&title_color=00ff00&text_color=00ff00&show_owner=true" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Jatin5760">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Jatin5760&limit=2&bg_color=0f0f0f&title_color=00ff00&text_color=00ff00&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
 
-<br>
-
-<center>
-<picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=jatin5760&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com?user=jatin5760&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jatin5760" />
-</picture>
-</center>
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin5760&bg_color=0f0f0f&color=00ff00&line=00cc00&point=99ff99&area=false&hide_border=false" style="border-radius: 15px;">
+</div>
 
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
