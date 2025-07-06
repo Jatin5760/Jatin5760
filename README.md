@@ -84,8 +84,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Jatin5760/Awesome-Dev-Portfolios">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Jatin5760&repo=Awesome-Dev-Portfolios&bg_color=0f0f0f&title_color=00ff00&text_color=00ff00&show_owner=true" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/Jatin5760/FlavorlyIndia-project-MERN-">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Jatin5760&repo=FlavorlyIndia-project-MERN-&bg_color=0f0f0f&title_color=00ff00&text_color=00ff00&show_owner=true" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
