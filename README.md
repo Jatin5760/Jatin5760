@@ -16,6 +16,8 @@
 
 - ⚡ Fun fact **I am funny**
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Jatin5760/github-profile-trophy)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jatinsharma14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsharma14_" height="30" width="40" /></a>
