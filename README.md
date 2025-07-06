@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | React Native Enthusiast | MERN Stack | DevOps Explorer</h3>
 
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="28%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin5760&label=Profile%20views&color=0e75b6&style=flat" alt="jatin5760" /> </p>
