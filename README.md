@@ -65,16 +65,14 @@
 
 <!--Github stats Table--> 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊
-
 <table width="100%">
   <tr>
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jatin5760&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=00ff00&text_color=00ff00&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jatin5760&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&icon_color=ff3333" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -82,7 +80,7 @@
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://streak-stats.demolab.com?user=Jatin5760&background=0f0f0f&fire=ff9200&ring=ff9200&sideNums=00ff00&sideLabels=00ff00&dates=99ff99&currStreakNum=ff6200" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=Jatin5760&background=0f0f0f&fire=ff4444&ring=ff3333&sideNums=ff6666&sideLabels=ff6666&dates=ff8888&currStreakNum=ff2222" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -92,7 +90,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/Jatin5760/FlavorlyIndia-project-MERN-">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Jatin5760&repo=FlavorlyIndia-project-MERN-&bg_color=0f0f0f&title_color=00ff00&text_color=00ff00&show_owner=true" alt="Awesome-Dev-Portfolios" />
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Jatin5760&repo=FlavorlyIndia-project-MERN-&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&icon_color=ff3333" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
@@ -100,7 +98,7 @@
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Jatin5760&limit=2&bg_color=0f0f0f&title_color=00ff00&text_color=00ff00&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Jatin5760&limit=2&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
         </a>
       </p>
     </td>
