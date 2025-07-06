@@ -115,4 +115,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin5760&bg_color=0f0f0f&color=00ff00&line=00cc00&point=99ff99&area=false&hide_border=false" style="border-radius: 15px;">
 </div>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
 
