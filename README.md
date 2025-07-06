@@ -85,3 +85,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jatin5760" />
 </picture>
 </center>
+
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin5760&bg_color=0f0f0f&color=00ff00&line=00cc00&point=99ff99&area=false&hide_border=false" style="border-radius: 15px;">
+</div>
