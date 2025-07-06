@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.wallpapersafari.com/69/16/S8uBZe.gif)
+![MasterHead](https://i.pinimg.com/originals/65/ff/25/65ff25ffbe3786b2de094f7051bbd873.gif)
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Jatin Sharma
 <h3 align="left">Full Stack Developer | React Native Enthusiast | MERN Stack | DevOps Explorer</h3>
