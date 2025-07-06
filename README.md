@@ -112,7 +112,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin5760&bg_color=0f0f0f&color=00ff00&line=00cc00&point=99ff99&area=false&hide_border=false" style="border-radius: 15px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin5760&bg_color=0f0f0f&color=ff0000&line=cc0000&point=ff9999&area=false&hide_border=false" style="border-radius: 15px;">
 </div>
 
 <p align="center">
